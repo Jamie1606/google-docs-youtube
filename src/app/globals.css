@@ -245,6 +245,7 @@ body {
 
     input[type="checkbox"] {
       cursor: pointer;
+      margin-top: 0.55rem;
     }
 
     ul[data-type="taskList"] {
